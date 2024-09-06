@@ -1,5 +1,5 @@
 # E-Commerce Store with Admin Dashboard
-
+**Backend repo** : https://github.com/swarupsuthar/backend
 This project demonstrates how to integrate an admin dashboard with an e-commerce store using Next.js, Stripe, Tailwind, and MongoDB, covering user authentication, shopping cart, and checkout processes.
 
 ## Highlights
